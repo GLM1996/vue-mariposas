@@ -4,5 +4,5 @@ import vue from '@vitejs/plugin-vue'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: 'https://glm1996.github.io/vue-mariposas/'
+  base: 'https://GLM1996.github.io/vue-mariposas/'
 })
